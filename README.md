@@ -36,5 +36,4 @@ Lembrando que será necessario importar a base SQL.
 Sobre o Projeto
 ----
 
-Projeto desenvolvido pelo Aluno: Vinicius Vivian.
-Curso: Engenharia de Software - 3 Fase.
+Projeto desenvolvido por: Vinicius Vivian
