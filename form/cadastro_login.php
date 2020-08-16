@@ -60,7 +60,7 @@
 						echo "Seus dados são: </br>";
 						echo "<b>Usuário: ".$usuario."</br>";
 						echo "Senha: ".$senha."</b></br>";
-						echo "<a href = '/index.php'>Clique aqui para entrar</a>";
+						echo "<a href = 'inicio.php'>Clique aqui para entrar</a>";
 					}else{
 						echo "Erro ao cadastrar, contate o Administrador do Sistema!";
 					}

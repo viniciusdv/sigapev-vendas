@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-
 <link href="css/bootstrap.min.css" rel="stylesheet">
  <link href="css/style.css" rel="stylesheet">
  <!-- Latest compiled and minified CSS -->
@@ -77,7 +76,7 @@
     <div class="col-md-12">
     <br>
       <button type="submit" class="btn btn-success btn-sm">Salvar</button>
-    <a href="index.php" class="btn btn-danger btn-sm">Cancelar</a>
+    <a href="painel.php" class="btn btn-danger btn-sm">Cancelar</a>
     </div>
   </div>
 

@@ -115,8 +115,8 @@
 
 								<td class="actions">
 									
-                                    <a class="btn btn-danger btn-xs"  href="excluir_pedido.php?id_pedido='.$rows['form/id_pedido'].'">Cancelar Pedido</a>
-                                    <a class="btn btn-primary btn-xs"  href="imprimir_pedido.php?id_pedido='.$rows['form/id_pedido'].'">Imprimir</a>
+                                    <a class="btn btn-danger btn-xs"  href="excluir_pedido.php?id_pedido='.$rows['id_pedido'].'">Cancelar Pedido</a>
+                                    <a class="btn btn-primary btn-xs"  href="imprimir_pedido.php?id_pedido='.$rows['id_pedido'].'">Imprimir</a>
 								</td>
 							</tr>';
 						}

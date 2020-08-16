@@ -1,6 +1,10 @@
 <?php
-	include_once("form/conexao.php");
-	@session_start();
+
+  
+include_once("form/conexao.php");
+	
+//@session_start();
+
 
 ?>
 
