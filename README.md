@@ -24,7 +24,7 @@ Sistema CRUD para ralização basica de venda;
 ### Possiveis Problemas
 
 * Podera haver problemas na consulta de produto na tela "Vendas";
-* Problemas validção de Usuario;
+* Problemas validação de Usuario;
 
 Problemas serão corrijidos em um proxima atualização;
 ### Instalação
