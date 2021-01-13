@@ -33,11 +33,3 @@ A aplicação pode ser instalada tanto no xammp , wampserver e demais aplicaçõ
 
 Lembrando que será necessario importar a base SQL.
 
-Sobre o Projeto
-----
-
-<<<<<<< HEAD
-Projeto desenvolvido por: Vinicius Vivian
-=======
-Projeto desenvolvido por: Vinicius Vivian
->>>>>>> 084db237c6c0c99cbfbf3605fea74d366207f11d
