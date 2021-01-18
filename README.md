@@ -4,6 +4,8 @@ Sistema CRUD para ralização basica de venda;
  - PHP Versão 7;
  - MYsql;
  - Ajax;
+ -Bootstrap
+
  
  ## Funcionalidades
   - Cadastro de Produto;
@@ -13,13 +15,6 @@ Sistema CRUD para ralização basica de venda;
   - Cancelamento de Venda;
   - Validação de Estoque(pre-venda);
 
-##  Novas atualizações Futuras
-
-  - Cadastro de Funcionario;
-  - Finalização tela de Cliente;
-  - Comissão de Funcionario;
-  - Crediario do Cliente;
-  - Cadastro de Imagem(Produto);
 
 ### Possiveis Problemas
 
